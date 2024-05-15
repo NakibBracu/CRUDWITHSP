@@ -1,0 +1,6 @@
+@SPCRUDAPI_HostAddress = http://localhost:5022
+
+GET {{SPCRUDAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
